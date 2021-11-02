@@ -18,7 +18,7 @@
 ### Can be found on telegram as [@MizukiDevRobot](https://t.me/MizukiDevRobot)
 
 ### Don't forget to star the repo ⭐
-
+https://heroku.com/deploy?template=https://github.com/Thanusara/Mizuki
 ### Devs
 
 - [Janindu](https://t.me/ImJanindu)
